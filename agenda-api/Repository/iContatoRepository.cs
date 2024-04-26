@@ -7,7 +7,12 @@ namespace agenda_api.Repository
 
         void Add(Contato contato);
 
-        List<Contato> Get();
+        Contato Get(int id);
+
+        void Delete(Contato contato);
        
     }
+
+
+    
 }

@@ -15,9 +15,18 @@ namespace agenda_api.Infrastructure
             _context.SaveChanges();
         }
 
-        public List<Contato> Get()
+        public Contato Get(int id)
         {
-            return _context.contatos.ToList();
+            return _context.contatos.FirstOrDefault(c => c.id == id);
         }
+
+        public void Delete(Contato contato)
+        {
+            _context.contatos.Remove(contato);
+            _context.SaveChanges();
+
+        }
+        // Ola Mundo
     }
+       
 }

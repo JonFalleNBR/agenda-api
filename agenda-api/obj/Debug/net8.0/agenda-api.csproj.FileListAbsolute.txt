@@ -35,3 +35,4 @@ C:\Users\Jonathan\OneDrive\Área de Trabalho\Dev\agenda-api\agenda-api\agenda-ap
 C:\Users\Jonathan\OneDrive\Área de Trabalho\Dev\agenda-api\agenda-api\agenda-api\obj\Debug\net8.0\agenda-api.pdb
 C:\Users\Jonathan\OneDrive\Área de Trabalho\Dev\agenda-api\agenda-api\agenda-api\obj\Debug\net8.0\agenda-api.genruntimeconfig.cache
 C:\Users\Jonathan\OneDrive\Área de Trabalho\Dev\agenda-api\agenda-api\agenda-api\obj\Debug\net8.0\ref\agenda-api.dll
+C:\Users\Jonathan\OneDrive\Área de Trabalho\Dev\agenda-api\agenda-api\agenda-api\obj\Debug\net8.0\agenda-api.sourcelink.json
