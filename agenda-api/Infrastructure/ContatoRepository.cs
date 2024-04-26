@@ -26,7 +26,11 @@ namespace agenda_api.Infrastructure
             _context.SaveChanges();
 
         }
-        // Ola Mundo
+
+        public List<Contato> GetAll()
+        {
+            return _context.contatos.ToList();
+        }
     }
        
 }

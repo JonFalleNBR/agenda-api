@@ -10,9 +10,11 @@ namespace agenda_api.Repository
         Contato Get(int id);
 
         void Delete(Contato contato);
+
+
+        List<Contato> GetAll();
        
     }
-
 
     
 }

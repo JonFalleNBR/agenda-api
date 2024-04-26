@@ -8,7 +8,7 @@ namespace agenda_api.Controllers
 {
 
     [ApiController]
-    [Route ("api/v1/contato")]
+    [Route("api/v1/contato")]
     public class ContatoController : ControllerBase
     {
 
@@ -17,9 +17,9 @@ namespace agenda_api.Controllers
 
         public ContatoController(iContatoRepository contatoRepository)
         {
-            _contatoRepository = contatoRepository  ?? throw new ArgumentNullException(nameof(contatoRepository));  
+            _contatoRepository = contatoRepository ?? throw new ArgumentNullException(nameof(contatoRepository));
         }
-        
+
         [HttpPost]
         public IActionResult Add(ContatoViewModel contatoViewModel)
         {
@@ -30,8 +30,19 @@ namespace agenda_api.Controllers
         }
 
 
+
+        [HttpGet]
+        public IActionResult Listar()
+        {
+            var lista = _contatoRepository.GetAll(); // Chama o método GetAll do repositório
+            return Ok(lista); // Retorna a lista de contatos
+        }
+
+
+
+
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id) 
+        public IActionResult Delete(int id)
         {
             var contato = _contatoRepository.Get(id); // Recupera o contato pelo ID
             if (contato == null) // Verifica se o contato existe
