@@ -35,7 +35,7 @@ namespace agenda_api.Controllers
         public IActionResult Listar()
         {
             var lista = _contatoRepository.GetAll(); // Chama o método GetAll do repositório
-            return Ok(lista); // Retorna a lista de contatos
+            return Ok(lista);
         }
 
 
@@ -52,8 +52,26 @@ namespace agenda_api.Controllers
 
             _contatoRepository.Delete(contato); // Chama o método Delete do repository
 
-            return Ok(contato); // Retorna o contato excluído
+            return Ok(contato);
         }
+
+
+        [HttpPatch("{id}/favorito")]
+        public IActionResult favorite(int id, bool favorito)
+        {
+            Contato contato = _contatoRepository.findById(id, favorito);
+
+            if(contato != null)
+            {
+                contato.favorito = favorito;
+                return Ok(contato);
+            }
+            else
+            {
+                return NotFound();
+            }        
+        }
+
 
     }
 }

@@ -31,6 +31,23 @@ namespace agenda_api.Infrastructure
         {
             return _context.contatos.ToList();
         }
+
+        public Contato findById(int id, bool favorito)
+        {
+           if(favorito)
+            {
+                return _context.contatos.FirstOrDefault(c => c.id == id && c.favorito == true);
+                _context.SaveChanges();
+            }
+            else
+            {
+                return _context.contatos.FirstOrDefault(c => c.id == id && c.favorito == false);
+            }
+           
+
+        }
+
+    
     }
        
 }

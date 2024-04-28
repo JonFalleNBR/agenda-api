@@ -13,8 +13,10 @@ namespace agenda_api.Repository
 
 
         List<Contato> GetAll();
-       
-    }
 
-    
+
+        Contato findById(int id,  bool favorito);
+
+    }
+  
 }

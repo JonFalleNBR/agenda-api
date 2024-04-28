@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("agenda-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edf23c22f58554e1304a84227667e591af0b0ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c467454c3acbeec14a06e73fc9f83e30255b985")]
 [assembly: System.Reflection.AssemblyProductAttribute("agenda-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("agenda-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
