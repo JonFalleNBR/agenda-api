@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "agenda-api\\Program.cs",
               "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Program.cs",
               "RelativeToolTip": "agenda-api\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T01:07:25.72Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "agenda-api\\Repository\\iContatoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T22:04:57.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T22:04:57.997Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "agenda-api\\Controllers\\ContatoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:09:42.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:09:42.978Z"
             },
             {
               "$type": "Document",
@@ -87,10 +85,9 @@
               "RelativeDocumentMoniker": "agenda-api\\Infrastructure\\ContatoRepository.cs",
               "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Infrastructure\\ContatoRepository.cs",
               "RelativeToolTip": "agenda-api\\Infrastructure\\ContatoRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:06:10.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:06:10.409Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "agenda-api\\ViewModel\\ContatoViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:04:45.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:04:45.294Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "agenda-api\\Infrastructure\\ConnectionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T20:32:13.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T20:32:13.369Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "agenda-api\\Model\\Contato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T20:24:02.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T20:24:02.218Z"
             }
           ]
         }
