@@ -72,6 +72,19 @@ namespace agenda_api.Controllers
             }        
         }
 
+        [HttpGet("paginacao")]
+        public IActionResult ListarContatosPaginacao([FromQuery] int page = 1)
+        {
+            const int pageSize = 10;
+            var contatos = _contatoRepository.GetAll()
+                .OrderBy(c => c.id)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            return Ok(contatos);
+        }
+
 
     }
 }

@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\",
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\viewmodel\\contatoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\viewmodel\\contatoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\infrastructure\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\infrastructure\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\repository\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\viewmodel\\contatoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\viewmodel\\contatoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\infrastructure\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\infrastructure\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\repository\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\repository\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\dev\\agenda-api\\agenda-api\\agenda-api\\infrastructure\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|c:\\users\\jonathan\\onedrive\\\u00E1rea de trabalho\\agenda-api\\agenda-api\\infrastructure\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{460D04B1-1925-427A-8896-739DE87B07E8}|agenda-api\\agenda-api.csproj|solutionrelative:agenda-api\\infrastructure\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,28 +38,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Program.cs",
               "RelativeDocumentMoniker": "agenda-api\\Program.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Program.cs",
               "RelativeToolTip": "agenda-api\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T01:07:25.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T01:07:25.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "iContatoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Repository\\iContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Repository\\iContatoRepository.cs",
               "RelativeDocumentMoniker": "agenda-api\\Repository\\iContatoRepository.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Repository\\iContatoRepository.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Repository\\iContatoRepository.cs",
               "RelativeToolTip": "agenda-api\\Repository\\iContatoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,23 +66,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Controllers\\ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "agenda-api\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "agenda-api\\Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwE0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:09:42.978Z"
+              "WhenOpened": "2024-04-25T21:09:42.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ContatoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Infrastructure\\ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Infrastructure\\ContatoRepository.cs",
               "RelativeDocumentMoniker": "agenda-api\\Infrastructure\\ContatoRepository.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Infrastructure\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Infrastructure\\ContatoRepository.cs",
               "RelativeToolTip": "agenda-api\\Infrastructure\\ContatoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ContatoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\ViewModel\\ContatoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\ViewModel\\ContatoViewModel.cs",
               "RelativeDocumentMoniker": "agenda-api\\ViewModel\\ContatoViewModel.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\ViewModel\\ContatoViewModel.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\ViewModel\\ContatoViewModel.cs",
               "RelativeToolTip": "agenda-api\\ViewModel\\ContatoViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ConnectionContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Infrastructure\\ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Infrastructure\\ConnectionContext.cs",
               "RelativeDocumentMoniker": "agenda-api\\Infrastructure\\ConnectionContext.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Infrastructure\\ConnectionContext.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Infrastructure\\ConnectionContext.cs",
               "RelativeToolTip": "agenda-api\\Infrastructure\\ConnectionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Model\\Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Model\\Contato.cs",
               "RelativeDocumentMoniker": "agenda-api\\Model\\Contato.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\Dev\\agenda-api\\agenda-api\\agenda-api\\Model\\Contato.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\\u00C1rea de Trabalho\\agenda-api\\agenda-api\\Model\\Contato.cs",
               "RelativeToolTip": "agenda-api\\Model\\Contato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
